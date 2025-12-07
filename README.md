@@ -21,10 +21,10 @@ El proyecto incluye:
 
 ## 🗂️ **Contenido del Repositorio**
 
-* `schema.sql` → Creación de tablas, PK, FK, vistas, procedimientos y triggers.
-* `backup-bbdd.sql` → Respaldo completo de la base de datos.
-* `diagramas/` → Imágenes del modelo E-R.
-* `documentacion/` → Informe académico completo en PDF.
+* `MMORPG-querys.sql` → Creación de tablas, PK, FK, vistas, procedimientos y triggers.
+* `MMORPG.bak` → Respaldo completo de la base de datos.
+* `Diagrama entidad-relación` → Imágenes del modelo E-R.
+* `documentacion.pdf` → Informe académico completo en PDF.
 * `README.md` → Este documento.
 
 ---
@@ -40,8 +40,8 @@ El proyecto incluye:
 ## 🧩 **Modelo Entidad-Relación (DER)**
 
 A continuación se incluye el diagrama E-R diseñado para el videojuego, donde se modelan entidades como personajes, razas, clases, cuentas, estadísticas, monstruos y mucho más.
+<img width="607" height="655" alt="Screenshot_ER" src="https://github.com/user-attachments/assets/d96a54f1-c3e7-4eb5-a366-80413449216e" />
 
-*(Insertar imagen aquí)*
 
 ---
 
